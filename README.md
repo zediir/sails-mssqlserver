@@ -19,6 +19,12 @@ The development and acceptance of pull request have stalled on the original proj
 $ npm install sails-mssqlserver --save
 ```
 
+### Additional dependency
+
+```
+    "mssql": "3.3.0",
+```
+
 ### 2. Configure
 
 #### `config/models.js`

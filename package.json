@@ -77,12 +77,6 @@
     "url": "https://github.com/misterGF/sails-mssqlserver/issues"
   },
   "homepage": "https://github.com/misterGF/sails-mssqlserver#readme",
-  "bundleDependencies": [
-    "lodash",
-    "mssql",
-    "underscore.string",
-    "waterline-cursor"
-  ],
   "_id": "sails-mssqlserver@0.12.0",
   "_shasum": "409ce5ffaae5c0da06cf25586f08cf84276b4de3",
   "_from": "sails-mssqlserver@>=0.12.0 <0.13.0",
